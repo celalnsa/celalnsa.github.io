@@ -1,0 +1,13 @@
+h4{
+    text-align: center;
+    //border-style: dashed;
+}
+body, html,#render-target {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin:0;
+}
+div#render-target{
+    text-align: center;
+}
